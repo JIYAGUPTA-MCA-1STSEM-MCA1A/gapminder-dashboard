@@ -70,17 +70,20 @@ This cleaned and simplified CSV version (`gapminder_data_graphs.csv`) is include
 ----------------------------------------------------------------------------------------------------------------
 
 🤝 Contributing
+
 Pull requests are welcome!
 If you have ideas to improve the dashboard (new charts, better design, new data filters), feel free to contribute.
 
 ----------------------------------------------------------------------------------------------------------------
 
 🪪 License
+
 This project is licensed under the MIT License.
 
 ----------------------------------------------------------------------------------------------------------------
 
 🙏 Acknowledgments
+
 Gapminder.org for the dataset
 Streamlit, Plotly, and Pandas open-source communities
 
